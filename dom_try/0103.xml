@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<events year="2005">
+	<!-- 会社の行事 -->
+	<event>新年会</event>
+	<event>送別会</event>
+	<event>忘年会</event>
+	<event>キャンプ</event>
+	<event><![CDATA[スキー＆スノーボード]]></event>
+	<?browser break?>
+</events>

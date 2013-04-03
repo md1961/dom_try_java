@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<booklist>
+	<memo>Javaに関する本の一覧です</memo>
+	<book>
+		<name>Java教科書</name>
+		<price>2580</price>
+		<memo>今月の新刊です</memo>
+	</book>
+	<book>
+		<name>10日でおぼえるJava入門</name>
+		<price>2800</price>
+	</book>
+	<book>
+		<name>Javaの絵本</name>
+		<price>1580</price>
+	</book>
+</booklist>
